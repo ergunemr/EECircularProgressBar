@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "EECircularProgressBar"
-  s.version      = "0.1"
+  s.version      = "0.2"
   s.summary      = "A custom circular progress bar that provides transition between colors."
 
   s.homepage     = "https://github.com/ergunemr/EECircularProgressBar"
